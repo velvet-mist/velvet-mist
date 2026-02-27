@@ -1,92 +1,42 @@
-Sneha Sinha
+# Sneha Sinha
 
-AI/ML • Systems • Backend Engineering
+**AI/ML · Systems · Backend Engineering**
 
-Final-year BSc Computer Science (Hons) & Mathematics student
-Focused on Machine Learning, large-scale data systems, and industrial automation software.
+Final-year BSc Computer Science (Hons) & Mathematics student — building things at the intersection of machine learning, low-level systems, and industrial automation software.
 
-I build things that sit at the intersection of:
+---
 
-🤖 Machine Learning
+## What I work on
 
-⚙️ Low-level Systems + Networking
+I gravitate toward problems where data meets infrastructure: designing ML pipelines that actually ship, backend systems that handle real load, and integrations with hardware that doesn't speak HTTP.
 
-🌐 Backend Architecture
+Right now I'm focused on:
+- ML model development, evaluation, and feature engineering
+- Large dataset analysis and preprocessing pipelines
+- TCP/IP-based industrial integrations (Cognex / Keyence vision systems)
+- Role-based access control for machine-level authorization (RBAC)
+- Automation pipelines — LeetCode → Notion syncs, data orchestration
 
-📊 Data-driven Applications
+---
 
-🔬 Current Focus
+## Technical Stack
 
-ML model development & evaluation
+**Languages** — Python · Rust · Java · Kotlin · SQL · C (basics)
 
-Large dataset analysis
+**Backend & Systems** — FastAPI · PostgreSQL · SQLAlchemy · REST · TCP socket communication · RBAC · Industrial device protocols
 
-TCP/IP-based industrial integrations
+**ML / Data** — Pandas · NumPy · Scikit-learn · Logistic Regression · Feature engineering · Data preprocessing pipelines
 
-Access Control Systems (RBAC for machine-level authorization)
+**Tools** — Git · Docker · Linux · Anaconda · Postman · Android Studio
 
-Automation pipelines (LeetCode → Notion, data sync systems)
+---
 
-🧠 Technical Stack
-Languages
+## A bit more
 
-Python
+I like working close to the metal — whether that's writing socket-level communication code, tuning a logistic regression model, or designing an access control system for industrial hardware. I'm drawn to systems that need to be both correct and efficient, and to the kind of engineering that doesn't have a clean tutorial to follow.
 
-Rust
+Currently open to roles and collaborations in ML engineering, backend systems, or anything sitting at an interesting intersection of the two.
 
-Java
+---
 
-SQL
-
-Kotlin
-
-C (basics)
-
-Backend & Systems
-
-FastAPI
-
-PostgreSQL
-
-SQLAlchemy
-
-REST architecture
-
-TCP socket communication
-
-Role-Based Access Control (RBAC)
-
-Industrial device communication (Cognex / Keyence vision systems)
-
-ML / Data
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Logistic Regression models
-
-Feature engineering
-
-Data preprocessing pipelines
-
-Tools
-
-Git
-
-Docker
-
-Linux
-
-Anaconda
-
-Postman
-
-Android Studio
-
-<!---
-SnehaSinha05/SnehaSinha05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*BSc Computer Science (Hons) & Mathematics · Final Year*
