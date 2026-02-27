@@ -21,7 +21,7 @@ Right now I'm focused on:
 
 ## Technical Stack
 
-**Languages** — Python · Rust · Java · Kotlin · SQL · C (basics)
+**Languages** — Python · Rust · Java · Kotlin (Basics) · SQL · HTML · CSS · JavaScript · C 
 
 **Backend & Systems** — FastAPI · PostgreSQL · SQLAlchemy · REST · TCP socket communication · RBAC · Industrial device protocols
 
