@@ -1,9 +1,90 @@
-- 👋 Hi, I’m @SnehaSinha05
-- 👀 I’m interested in Machine Learning, AI
-- 🌱 I’m currently learning LLMs, ML libraries such as panda, seaborn, Sckit-learn
-- 💞️ I’m looking to collaborate on different projects that focus on data science and machine learning
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I <3 learning about the math and statistics behind all codes
+Sneha Sinha
+
+AI/ML • Systems • Backend Engineering
+
+Final-year BSc Computer Science (Hons) & Mathematics student
+Focused on Machine Learning, large-scale data systems, and industrial automation software.
+
+I build things that sit at the intersection of:
+
+🤖 Machine Learning
+
+⚙️ Low-level Systems + Networking
+
+🌐 Backend Architecture
+
+📊 Data-driven Applications
+
+🔬 Current Focus
+
+ML model development & evaluation
+
+Large dataset analysis
+
+TCP/IP-based industrial integrations
+
+Access Control Systems (RBAC for machine-level authorization)
+
+Automation pipelines (LeetCode → Notion, data sync systems)
+
+🧠 Technical Stack
+Languages
+
+Python
+
+Rust
+
+Java
+
+SQL
+
+Kotlin
+
+C (basics)
+
+Backend & Systems
+
+FastAPI
+
+PostgreSQL
+
+SQLAlchemy
+
+REST architecture
+
+TCP socket communication
+
+Role-Based Access Control (RBAC)
+
+Industrial device communication (Cognex / Keyence vision systems)
+
+ML / Data
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Logistic Regression models
+
+Feature engineering
+
+Data preprocessing pipelines
+
+Tools
+
+Git
+
+Docker
+
+Linux
+
+Anaconda
+
+Postman
+
+Android Studio
 
 <!---
 SnehaSinha05/SnehaSinha05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
