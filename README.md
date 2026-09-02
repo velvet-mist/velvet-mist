@@ -2,7 +2,7 @@
 
 Final-year BSc CS (Hons) & Mathematics student. I build at the intersection of ML, backend systems, and industrial automation.
 
-**Currently working on** — ML model development · large dataset analysis · TCP/IP industrial integrations · RBAC for machine-level auth · automation pipelines
+**Currently working on** — ML model development · large dataset analysis · TCP/IP industrial integrations · RBAC for machine-level auth · automation pipelines · Research on Implicit Neural Representations and Neural Networks
 
 ---
 
